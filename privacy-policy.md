@@ -32,7 +32,7 @@ The app does not use third-party services and shares nothing with anyone.
 
 ## Contact
 
-Questions or bug reports: open an issue at https://github.com/ambua/PhotoTransigo-docs/issues
+Questions or bug reports: use the support contact shown on the PhotoTransigo listing in the Microsoft Store.
 
 ## Changes
 
